@@ -1,6 +1,6 @@
 # 👋 ¡Bienvenido a mi Perfil de GitHub!
 
-## Soy Facundo Palavecino, Desarrollador Front End :🇦🇷
+## Soy Facundo Palavecino, Desarrollador Front End
 
 ### 🚀 Principales Habilidades
 
